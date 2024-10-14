@@ -4,7 +4,10 @@
 
 <h3 align="center">Fullstack Developer in Web, Mobile, AI</h3>
 
-<h4 align="left">Connect with me: https://www.linkedin.com/in/kwan-yang-tan-8b4b86232/</h3>
+I am deeply passionate about computer science, with a strong focus on Software Architecture, Code Design, and AI Integration. I enjoy finding creative solutions to complex problems and building systems that are both scalable and efficient. In my free time, I love exploring new technologies, honing my coding skills, and learning more about AI. When I'm not working on tech, I enjoy activities like hiking, photography, and exploring different cultures through travel.
+
+<h4 align="left">Connect with me: <a href="https://www.linkedin.com/in/kwan-yang-tan-8b4b86232/" target="_blank" rel="noreferrer">LinkedIn</a></h4>
+
 <p align="left">
 </p>
 
